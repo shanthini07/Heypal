@@ -9,7 +9,13 @@ The Instagram Clone is a full-stack web application built using the MERN (MongoD
  - Start the server and frontend development servers.
  - Access the application through the provided endpoints and routes.
 
-**Tech Stack**
+  **Tech Stack**
+- React
+- Express
+- Node.js
+- MongoDB
+
+**Packages to install**
 Frontend
   - Axios
   - Formik
@@ -23,12 +29,6 @@ Backend (Server)
   - Cors
   - fs
   - Nodemailer
-    
-**Packages to Install**
-- For Server Setup
-   npm i express mongoose express-fileupload body-parser cors fs nodemailer
-- For Frontend
-   npm i react-router react-router-dom axios formik @context/bootstrap
 
 
 
