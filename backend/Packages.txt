@@ -1,0 +1,11 @@
+the following packages are to be installed for server set up
+
+* Express - to run server
+* Mongoose - to access mongodb database
+* Express fileupload - to upload pics in server
+* Body Parser - to parse request and response data
+* Cors - for frontend to access backend data
+* fs - to manipulate server files
+* Nodemailer - to send mail
+
+command : npm i express mongoose express-fileupload body-parser cors fs nodemailer 

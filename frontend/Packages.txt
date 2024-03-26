@@ -1,0 +1,10 @@
+the following packages are to be installed for frontend
+
+* React Router - to create routes for components and navigate between them
+* React Router DOM - to create DOM structure
+* Axios - to get data from server
+* Formik - for form structure
+* Context - to share same data within components
+* Bootstrap - for user interface
+
+command : npm i react-router reat-router-dom  axios formik context bootstrap
